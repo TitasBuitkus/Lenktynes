@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(30,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(31,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(33,45): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(34,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(63,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(64,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(65,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(71,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(71,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(72,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(126,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(127,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(130,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(130,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Sources\Main.cpp(138,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  doodle.vcxproj -> C:\Users\Titas Buitkus\Desktop\Lenktynes c++\Debug\doodle.exe
